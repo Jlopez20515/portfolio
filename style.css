@@ -76,6 +76,7 @@ p {
 #section-a {
   background: #eaeaea;
   color: #333;
+  padding-top: 1em;
   padding-bottom: 2em;
 }
 
